@@ -1,0 +1,16 @@
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\obj\Debug\MazesTests.csprojResolveAssemblyReference.cache
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\obj\Debug\MazesTests.csproj.CoreCompileInputs.cache
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\MazesTests.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\MazesTests.pdb
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Mazes.exe
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Mazes.pdb
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Mazes.exe.config
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\obj\Debug\MazesTests.dll
+C:\Users\Mechkostuk\source\repos\Mazes\MazesTests\obj\Debug\MazesTests.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\bin\Debug\Mazes.exe.config
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\bin\Debug\Mazes.exe
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\bin\Debug\Mazes.pdb
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\obj\Debug\Mazes.csprojResolveAssemblyReference.cache
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\obj\Debug\Mazes.csproj.CoreCompileInputs.cache
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\obj\Debug\Mazes.exe
+C:\Users\Mechkostuk\source\repos\Mazes\Mazes\obj\Debug\Mazes.pdb
